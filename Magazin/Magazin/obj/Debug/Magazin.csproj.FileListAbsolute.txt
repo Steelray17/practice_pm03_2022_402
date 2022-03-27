@@ -1,0 +1,71 @@
+C:\Users\c_class\source\repos\Magazin\Magazin\bin\Debug\Magazin.exe.config
+C:\Users\c_class\source\repos\Magazin\Magazin\bin\Debug\Magazin.exe
+C:\Users\c_class\source\repos\Magazin\Magazin\bin\Debug\Magazin.pdb
+C:\Users\c_class\source\repos\Magazin\Magazin\obj\Debug\Magazin.csproj.AssemblyReference.cache
+C:\Users\c_class\source\repos\Magazin\Magazin\obj\Debug\Magazin.Form1.resources
+C:\Users\c_class\source\repos\Magazin\Magazin\obj\Debug\Magazin.Users.resources
+C:\Users\c_class\source\repos\Magazin\Magazin\obj\Debug\Magazin.Properties.Resources.resources
+C:\Users\c_class\source\repos\Magazin\Magazin\obj\Debug\Magazin.csproj.GenerateResource.cache
+C:\Users\c_class\source\repos\Magazin\Magazin\obj\Debug\Magazin.csproj.CoreCompileInputs.cache
+C:\Users\c_class\source\repos\Magazin\Magazin\obj\Debug\Magazin.exe
+C:\Users\c_class\source\repos\Magazin\Magazin\obj\Debug\Magazin.pdb
+C:\Users\c_class\source\repos\Magazin\Magazin\obj\Debug\Magazin.Products.resources
+C:\Users\c_class\source\repos\Magazin\Magazin\obj\Debug\Magazin.Catalogs.resources
+C:\Users\c_class\source\repos\Magazin\Magazin\obj\Debug\Magazin.Orders.resources
+C:\Users\steel\Desktop\Magazin\Magazin\bin\Debug\Magazin.exe.config
+C:\Users\steel\Desktop\Magazin\Magazin\bin\Debug\Magazin.exe
+C:\Users\steel\Desktop\Magazin\Magazin\bin\Debug\Magazin.pdb
+C:\Users\steel\Desktop\Magazin\Magazin\obj\Debug\Magazin.csproj.AssemblyReference.cache
+C:\Users\steel\Desktop\Magazin\Magazin\obj\Debug\Magazin.Catalogs.resources
+C:\Users\steel\Desktop\Magazin\Magazin\obj\Debug\Magazin.Form1.resources
+C:\Users\steel\Desktop\Magazin\Magazin\obj\Debug\Magazin.Orders.resources
+C:\Users\steel\Desktop\Magazin\Magazin\obj\Debug\Magazin.Products.resources
+C:\Users\steel\Desktop\Magazin\Magazin\obj\Debug\Magazin.Users.resources
+C:\Users\steel\Desktop\Magazin\Magazin\obj\Debug\Magazin.Properties.Resources.resources
+C:\Users\steel\Desktop\Magazin\Magazin\obj\Debug\Magazin.csproj.GenerateResource.cache
+C:\Users\steel\Desktop\Magazin\Magazin\obj\Debug\Magazin.csproj.CoreCompileInputs.cache
+C:\Users\steel\Desktop\Magazin\Magazin\obj\Debug\Magazin.exe
+C:\Users\steel\Desktop\Magazin\Magazin\obj\Debug\Magazin.pdb
+E:\Magazin\Magazin\bin\Debug\Magazin.exe.config
+E:\Magazin\Magazin\bin\Debug\Magazin.exe
+E:\Magazin\Magazin\bin\Debug\Magazin.pdb
+E:\Magazin\Magazin\obj\Debug\Magazin.csproj.AssemblyReference.cache
+E:\Magazin\Magazin\obj\Debug\Magazin.Catalogs.resources
+E:\Magazin\Magazin\obj\Debug\Magazin.Form1.resources
+E:\Magazin\Magazin\obj\Debug\Magazin.Orders.resources
+E:\Magazin\Magazin\obj\Debug\Magazin.Products.resources
+E:\Magazin\Magazin\obj\Debug\Magazin.Users.resources
+E:\Magazin\Magazin\obj\Debug\Magazin.Properties.Resources.resources
+E:\Magazin\Magazin\obj\Debug\Magazin.csproj.GenerateResource.cache
+E:\Magazin\Magazin\obj\Debug\Magazin.csproj.CoreCompileInputs.cache
+E:\Magazin\Magazin\obj\Debug\Magazin.exe
+E:\Magazin\Magazin\obj\Debug\Magazin.pdb
+E:\Magazin - копия1\Magazin\bin\Debug\Magazin.exe.config
+E:\Magazin - копия1\Magazin\bin\Debug\Magazin.exe
+E:\Magazin - копия1\Magazin\bin\Debug\Magazin.pdb
+E:\Magazin - копия1\Magazin\obj\Debug\Magazin.csproj.AssemblyReference.cache
+E:\Magazin - копия1\Magazin\obj\Debug\Magazin.Catalogs.resources
+E:\Magazin - копия1\Magazin\obj\Debug\Magazin.Form1.resources
+E:\Magazin - копия1\Magazin\obj\Debug\Magazin.Orders.resources
+E:\Magazin - копия1\Magazin\obj\Debug\Magazin.Products.resources
+E:\Magazin - копия1\Magazin\obj\Debug\Magazin.Users.resources
+E:\Magazin - копия1\Magazin\obj\Debug\Magazin.Properties.Resources.resources
+E:\Magazin - копия1\Magazin\obj\Debug\Magazin.csproj.GenerateResource.cache
+E:\Magazin - копия1\Magazin\obj\Debug\Magazin.csproj.CoreCompileInputs.cache
+E:\Magazin - копия1\Magazin\obj\Debug\Magazin.exe
+E:\Magazin - копия1\Magazin\obj\Debug\Magazin.pdb
+C:\Users\steel\Desktop\Magazin - копия1\Magazin\bin\Debug\Magazin.exe.config
+C:\Users\steel\Desktop\Magazin - копия1\Magazin\bin\Debug\Magazin.exe
+C:\Users\steel\Desktop\Magazin - копия1\Magazin\bin\Debug\Magazin.pdb
+C:\Users\steel\Desktop\Magazin - копия1\Magazin\obj\Debug\Magazin.csproj.AssemblyReference.cache
+C:\Users\steel\Desktop\Magazin - копия1\Magazin\obj\Debug\Magazin.Catalogs.resources
+C:\Users\steel\Desktop\Magazin - копия1\Magazin\obj\Debug\Magazin.Form1.resources
+C:\Users\steel\Desktop\Magazin - копия1\Magazin\obj\Debug\Magazin.Orders.resources
+C:\Users\steel\Desktop\Magazin - копия1\Magazin\obj\Debug\Magazin.Products.resources
+C:\Users\steel\Desktop\Magazin - копия1\Magazin\obj\Debug\Magazin.Users.resources
+C:\Users\steel\Desktop\Magazin - копия1\Magazin\obj\Debug\Magazin.Properties.Resources.resources
+C:\Users\steel\Desktop\Magazin - копия1\Magazin\obj\Debug\Magazin.csproj.GenerateResource.cache
+C:\Users\steel\Desktop\Magazin - копия1\Magazin\obj\Debug\Magazin.csproj.CoreCompileInputs.cache
+C:\Users\steel\Desktop\Magazin - копия1\Magazin\obj\Debug\Magazin.exe
+C:\Users\steel\Desktop\Magazin - копия1\Magazin\obj\Debug\Magazin.pdb
+C:\Users\steel\Desktop\Magazin - копия1\Magazin\obj\Debug\Magazin.Forms.resources
