@@ -32,5 +32,15 @@ namespace Magazin.Properties {
                 return ((string)(this["Computer_ShopConnectionString"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=PC5-304-6;Initial Catalog=\"Computer Shop\";Integrated Security=True")]
+        public string Computer_ShopConnectionString1 {
+            get {
+                return ((string)(this["Computer_ShopConnectionString1"]));
+            }
+        }
     }
 }

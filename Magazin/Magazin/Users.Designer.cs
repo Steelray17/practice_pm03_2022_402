@@ -30,7 +30,6 @@ namespace Magazin
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Users));
             System.Windows.Forms.Label label2;
             System.Windows.Forms.Label label3;
             System.Windows.Forms.Label label4;
@@ -38,6 +37,7 @@ namespace Magazin
             System.Windows.Forms.Label label6;
             System.Windows.Forms.Label label7;
             System.Windows.Forms.Label label8;
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Users));
             this.label1 = new System.Windows.Forms.Label();
             this.computer_ShopDataSet = new Magazin.Computer_ShopDataSet();
             this.usersBindingSource = new System.Windows.Forms.BindingSource(this.components);
@@ -75,6 +75,83 @@ namespace Magazin
             ((System.ComponentModel.ISupportInitialize)(this.usersBindingNavigator)).BeginInit();
             this.usersBindingNavigator.SuspendLayout();
             this.SuspendLayout();
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
+            label2.ForeColor = System.Drawing.Color.MidnightBlue;
+            label2.Location = new System.Drawing.Point(72, 84);
+            label2.Name = "label2";
+            label2.Size = new System.Drawing.Size(74, 16);
+            label2.TabIndex = 32;
+            label2.Text = "Фамилия";
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
+            label3.ForeColor = System.Drawing.Color.MidnightBlue;
+            label3.Location = new System.Drawing.Point(67, 110);
+            label3.Name = "label3";
+            label3.Size = new System.Drawing.Size(79, 16);
+            label3.TabIndex = 33;
+            label3.Text = "Отчество";
+            // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
+            label4.ForeColor = System.Drawing.Color.MidnightBlue;
+            label4.Location = new System.Drawing.Point(109, 136);
+            label4.Name = "label4";
+            label4.Size = new System.Drawing.Size(37, 16);
+            label4.TabIndex = 34;
+            label4.Text = "Имя";
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
+            label5.ForeColor = System.Drawing.Color.MidnightBlue;
+            label5.Location = new System.Drawing.Point(72, 162);
+            label5.Name = "label5";
+            label5.Size = new System.Drawing.Size(75, 16);
+            label5.TabIndex = 35;
+            label5.Text = "Телефон";
+            // 
+            // label6
+            // 
+            label6.AutoSize = true;
+            label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
+            label6.ForeColor = System.Drawing.Color.MidnightBlue;
+            label6.Location = new System.Drawing.Point(99, 188);
+            label6.Name = "label6";
+            label6.Size = new System.Drawing.Size(47, 16);
+            label6.TabIndex = 36;
+            label6.Text = "Email";
+            // 
+            // label7
+            // 
+            label7.AutoSize = true;
+            label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
+            label7.ForeColor = System.Drawing.Color.MidnightBlue;
+            label7.Location = new System.Drawing.Point(109, 214);
+            label7.Name = "label7";
+            label7.Size = new System.Drawing.Size(38, 16);
+            label7.TabIndex = 37;
+            label7.Text = "URL";
+            // 
+            // label8
+            // 
+            label8.AutoSize = true;
+            label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
+            label8.ForeColor = System.Drawing.Color.MidnightBlue;
+            label8.Location = new System.Drawing.Point(87, 240);
+            label8.Name = "label8";
+            label8.Size = new System.Drawing.Size(60, 16);
+            label8.TabIndex = 38;
+            label8.Text = "Статус";
             // 
             // label1
             // 
@@ -193,7 +270,6 @@ namespace Magazin
             // 
             this.bindingNavigatorPositionItem.AccessibleName = "Положение";
             this.bindingNavigatorPositionItem.AutoSize = false;
-            this.bindingNavigatorPositionItem.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.bindingNavigatorPositionItem.Name = "bindingNavigatorPositionItem";
             this.bindingNavigatorPositionItem.Size = new System.Drawing.Size(50, 23);
             this.bindingNavigatorPositionItem.Text = "0";
@@ -283,83 +359,6 @@ namespace Magazin
             this.uRLTextBox.Name = "uRLTextBox";
             this.uRLTextBox.Size = new System.Drawing.Size(121, 20);
             this.uRLTextBox.TabIndex = 29;
-            // 
-            // label2
-            // 
-            label2.AutoSize = true;
-            label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
-            label2.ForeColor = System.Drawing.Color.MidnightBlue;
-            label2.Location = new System.Drawing.Point(72, 84);
-            label2.Name = "label2";
-            label2.Size = new System.Drawing.Size(74, 16);
-            label2.TabIndex = 32;
-            label2.Text = "Фамилия";
-            // 
-            // label3
-            // 
-            label3.AutoSize = true;
-            label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
-            label3.ForeColor = System.Drawing.Color.MidnightBlue;
-            label3.Location = new System.Drawing.Point(67, 110);
-            label3.Name = "label3";
-            label3.Size = new System.Drawing.Size(79, 16);
-            label3.TabIndex = 33;
-            label3.Text = "Отчество";
-            // 
-            // label4
-            // 
-            label4.AutoSize = true;
-            label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
-            label4.ForeColor = System.Drawing.Color.MidnightBlue;
-            label4.Location = new System.Drawing.Point(109, 136);
-            label4.Name = "label4";
-            label4.Size = new System.Drawing.Size(37, 16);
-            label4.TabIndex = 34;
-            label4.Text = "Имя";
-            // 
-            // label5
-            // 
-            label5.AutoSize = true;
-            label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
-            label5.ForeColor = System.Drawing.Color.MidnightBlue;
-            label5.Location = new System.Drawing.Point(72, 162);
-            label5.Name = "label5";
-            label5.Size = new System.Drawing.Size(75, 16);
-            label5.TabIndex = 35;
-            label5.Text = "Телефон";
-            // 
-            // label6
-            // 
-            label6.AutoSize = true;
-            label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
-            label6.ForeColor = System.Drawing.Color.MidnightBlue;
-            label6.Location = new System.Drawing.Point(99, 188);
-            label6.Name = "label6";
-            label6.Size = new System.Drawing.Size(47, 16);
-            label6.TabIndex = 36;
-            label6.Text = "Email";
-            // 
-            // label7
-            // 
-            label7.AutoSize = true;
-            label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
-            label7.ForeColor = System.Drawing.Color.MidnightBlue;
-            label7.Location = new System.Drawing.Point(109, 214);
-            label7.Name = "label7";
-            label7.Size = new System.Drawing.Size(38, 16);
-            label7.TabIndex = 37;
-            label7.Text = "URL";
-            // 
-            // label8
-            // 
-            label8.AutoSize = true;
-            label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold);
-            label8.ForeColor = System.Drawing.Color.MidnightBlue;
-            label8.Location = new System.Drawing.Point(87, 240);
-            label8.Name = "label8";
-            label8.Size = new System.Drawing.Size(60, 16);
-            label8.TabIndex = 38;
-            label8.Text = "Статус";
             // 
             // userStatusComboBox
             // 

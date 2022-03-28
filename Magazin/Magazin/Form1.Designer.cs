@@ -42,14 +42,14 @@ namespace Magazin
             this.label1.ForeColor = System.Drawing.Color.Blue;
             this.label1.Location = new System.Drawing.Point(12, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(292, 33);
+            this.label1.Size = new System.Drawing.Size(370, 33);
             this.label1.TabIndex = 0;
             this.label1.Text = "База данных «Компьютерный магазин»";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(61, 78);
+            this.button1.Location = new System.Drawing.Point(107, 79);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(192, 35);
             this.button1.TabIndex = 1;
@@ -59,7 +59,7 @@ namespace Magazin
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(61, 137);
+            this.button2.Location = new System.Drawing.Point(107, 138);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(192, 35);
             this.button2.TabIndex = 2;
@@ -69,7 +69,7 @@ namespace Magazin
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(61, 196);
+            this.button3.Location = new System.Drawing.Point(107, 197);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(192, 35);
             this.button3.TabIndex = 3;
@@ -79,7 +79,7 @@ namespace Magazin
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(61, 253);
+            this.button4.Location = new System.Drawing.Point(107, 254);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(192, 35);
             this.button4.TabIndex = 4;
@@ -91,7 +91,7 @@ namespace Magazin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(316, 325);
+            this.ClientSize = new System.Drawing.Size(394, 325);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
